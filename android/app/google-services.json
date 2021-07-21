@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886275998779",
+    "project_id": "fluttertest-d5b46",
+    "storage_bucket": "fluttertest-d5b46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886275998779:android:3bc2d07ff790abd195c81e",
+        "android_client_info": {
+          "package_name": "com.omersavas.angaryos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886275998779-fr34mn64fkgekbio364lb5un3ljibv9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG_c_IUZOPm-MVpnq8YPoyiW_qwIMFrNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886275998779-fr34mn64fkgekbio364lb5un3ljibv9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

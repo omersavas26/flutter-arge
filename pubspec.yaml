@@ -1,0 +1,78 @@
+name: angaryos
+description: Angaryos 2. versiyon frontend
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0" 
+
+dependencies:
+  flutter:
+    sdk: flutter 
+
+  flutter_localizations:
+    sdk: flutter 
+
+  camera:
+  path_provider:
+  path:
+
+  google_fonts: ^2.1.0
+  cupertino_icons: ^1.0.2 
+  provider: ^5.0.0
+  flutter_svg: ^0.22.0 
+  http: ^0.13.3
+  flutter_secure_storage: ^4.2.0
+  intl: ^0.17.0 
+  universal_html: ^2.0.8
+  image_picker: ^0.8.1+3
+  dio: ^4.0.0
+  geolocator: ^7.2.0+1 
+  file_picker: ^3.0.3 
+  nfc_manager: ^3.1.0 
+  flutter_nfc_reader: ^0.1.0
+  sweetalert: ^0.0.1
+  fluttertoast: ^8.0.7
+  trust_fall: ^1.0.4 
+  device_info_plus: ^2.0.1 
+  reflectable: ^3.0.2 
+  package_info: ^2.0.2 
+  bubble_bottom_bar: ^1.2.0 
+
+  firebase_core: ^1.3.0
+  firebase_core_web: ^1.1.0
+  firebase_crashlytics: ^2.0.7 
+  firebase_dynamic_links: ^2.0.6 
+  firebase_messaging: ^10.0.3 
+  firebase_messaging_web: ^2.0.2
+  flutter_local_notifications: ^6.0.0 
+  firebase_remote_config: ^0.10.0+2 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_native_splash: ^1.2.0
+
+flutter_native_splash:
+  color: "#42a5f5"
+  #background_image: assets/images/bg.png
+  image: assets/images/logo.png
+  #color_dark: "#042a49"
+  background_image_dark: assets/images/bg.png
+  image_dark: assets/images/logo.png
+  android: true
+  ios: true
+  web: true
+  android_gravity: center
+  ios_content_mode: center
+  web_image_mode: center
+  fullscreen: true
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/localization/

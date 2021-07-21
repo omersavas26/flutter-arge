@@ -1,0 +1,22 @@
+{
+    "Merhaba": "Merhabayın",
+    "Bu özellik tarayıcı için kullanılamaz!": "Bu özellik tarayıcı için kullanılamaz!",
+    "Konumuz alınamadı! GPS kapalı olabilir.": "Konumuz alınamadı! GPS kapalı olabilir.",
+    "Seçilen dosyalar içinde geçersiz tipte dosya var. Dosya dikkate alınmadı!": "Seçilen dosyalar içinde geçersiz tipte dosya var. Dosya dikkate alınmadı!",
+    "Method içinde hata: ": "Method içinde hata: ",
+    "Cihazınızda NFC yok yada kapalı!": "Cihazınızda NFC yok yada kapalı!",
+    "RFID kart okundu": "RFID kart okundu",
+    "Cihazınızı karta yaklaştırınız": "Cihazınızı karta yaklaştırınız",
+    "Firebase CM token: ": "Firebase CM token: ",
+
+    "httpPost data içinde geçersiz kolon tipi": "httpPost data içinde geçersiz kolon tipi",
+    "Http post içinde hata": "Http post içinde hata",
+    "Http post içinde json parse edilemedi": "Http post içinde json parse edilemedi",
+    "httpPosyJsonA için geçersiz cevap": "httpPosyJsonA için geçersiz cevap",
+
+    "Http get içinde hata": "Http get içinde hata",
+    "Http get içinde json parse edilemedi": "Http get içinde json parse edilemedi",
+    "httpGetJsonA için geçersiz cevap": "httpGetJsonA için geçersiz cevap",
+    "Sunucudan bir hata mesajı döndü": "Sunucudan bir hata mesajı döndü",
+    "Cihazınızda kamera yok!": "Cihazınızda kamera yok!"
+}

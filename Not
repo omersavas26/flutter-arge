@@ -1,0 +1,15 @@
+ios icin path:      export PATH="$PATH:`pwd`/flutter/bin"
+
+
+
+    didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data,
+
+
+
+
+  pod 'Firebase/Core'
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Crashlytics'
+  pod 'Firebase/DynamicLinks'
+  pod 'Firebase/Messaging'
+  pod 'Firebase/RemoteConfig'
